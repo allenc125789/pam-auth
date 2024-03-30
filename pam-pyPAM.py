@@ -2,7 +2,7 @@
 
 #: Requires root.
 #: Requires Dependancies: python3-pam
-#: To run, use "pam-pyPAM.py usernamestring passwordstring"
+#: To run, use "python3 pam-pyPAM.py usernamestring passwordstring"
 
 import sys
 import PAM
