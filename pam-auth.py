@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+# To run, use "pam-auth.py usernamestring passwordstring"
 # Requires root.
 
 import sys
