@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #: Requires root.
-#: Example command: bash ./pam-auth.sh usernamestring passwordstring
+#: Requires Dependancies: sudo
+#: Example command: bash ./pam-sudo.sh usernamestring passwordstring
 
 printf "%s" "$2" | sudo -n -S -u "$1" true
