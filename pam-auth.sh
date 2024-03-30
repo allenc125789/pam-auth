@@ -1,2 +1,6 @@
 #!/bin/bash
-printf "%s" "$password" | sudo -n -S -u "$username" true
+
+#: Requires root.
+#: Example command: bash ./pam-auth.sh usernamstring passwordstring
+
+printf "%s" "$2" | sudo -n -S -u "$1" true
