@@ -6,7 +6,6 @@
 
 import sys
 import PAM
-from getpass import getpass
 
 def pam_conv(auth, query_list, userData):
 
