@@ -6,4 +6,4 @@ NGINX/APACHE
 Message me if you find more solutions. I would love to reference them here as I'm finding myself constantly in need for different methods for different solutions.
 
 C Language
--libpam-dev (Tutorial by fedetask: https://github.com/fedetask/pam-tutorials)
+- libpam-dev (Tutorial by fedetask: https://github.com/fedetask/pam-tutorials)
