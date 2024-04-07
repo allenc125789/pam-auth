@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 #: Requires root.
-#: Requires Dependancies: python3-pam
-#: To run, use "python3 ./pam-pyPAM.py usernamestring passwordstring"
+#: Requires (Debian) Dependancies: python3 python3-pam
+#: Example command; "python3 ./pam-pyPAM.py usernamestring passwordstring"
 
 import sys
 import PAM
