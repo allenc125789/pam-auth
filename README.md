@@ -7,7 +7,7 @@ Web-server wrapper for authentication using the auth_basic module.
 
 ## Python3
 
-# (Debian)
+### (Debian)
 
 python3-pam (Script and information in the repo's code. Lost original source for the script.)
 
