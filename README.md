@@ -1,9 +1,16 @@
 # PAM Wrapper Packages:
 
-## NGINX/APACHE
+## Nginx/Apache
 - apache2-utils (Tutorial by Susan B: https://www.youtube.com/watch?v=u-6GtcQA15Y)
 
-Web-server wrapper for authentication. Can't pass arguments or strings for back-end processing.
+Web-server wrapper for authentication using the auth_basic module.
+
+## Python3
+
+# (Debian)
+
+python3-pam (Script and information in the repo's code. Lost original source for the script.)
+
 
 ## C Language
 - libpam-dev (Tutorial by fedetask: https://github.com/fedetask/pam-tutorials)
