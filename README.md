@@ -3,7 +3,7 @@
 ## NGINX/APACHE
 - apache2-utils (Tutorial by Susan B: https://www.youtube.com/watch?v=u-6GtcQA15Y)
 
-
+Web-server wrapper for authentication. Can't pass arguments or strings for back-end processing.
 
 ## C Language
 - libpam-dev (Tutorial by fedetask: https://github.com/fedetask/pam-tutorials)
