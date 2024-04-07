@@ -1,5 +1,3 @@
-# Scripts: Packaged with Readme.
-
 # PAM Wrapper Packages:
 
 ## NGINX/APACHE
