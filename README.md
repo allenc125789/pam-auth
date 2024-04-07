@@ -8,7 +8,7 @@ Web-server wrapper for authentication. Can't pass arguments or strings for back-
 ## C Language
 - libpam-dev (Tutorial by fedetask: https://github.com/fedetask/pam-tutorials)
 
-This process involves creating and compiling a script in C directly interacting with the PAM system.
+This process involves creating and compiling a script in C directly interacting with the PAM system. Not really a wrapper as it is a direct method for interaction.
 
 ## End
 
